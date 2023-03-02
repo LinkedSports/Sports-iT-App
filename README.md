@@ -15,8 +15,42 @@
 ---
 
 ## 💫 팀원 소개
-
-
+<table>
+<tr>
+  <thead>
+   <th align="center">김영훈</th>
+   <th align="center">공명규</th>
+   <th align="center">이준수</th>
+   <th align="center">신우</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Devops</td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+    </tr>
+    <tr>
+      <td align="center"> [gongzuri](https://github.com/dudgns2947) </td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+    </tr>
+    <tr>
+      <td> align="center>
+        <a target="_blank" href="#"><img alt style="max-width:100%;" src="#"/></a></td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+    </tr>
+    <tr>
+      <td align="center">간단자기의 약력</td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+      <td align="center">ㅎ?ㅇ</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
