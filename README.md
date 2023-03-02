@@ -3,7 +3,7 @@
 <div align=center>
 
 <a href="https://github.com/LinkedSports/Sports-iT-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AJOU-BEGINNER/P-1" />
+  <img src="https://github.com/LinkedSports/Sports-iT-App/sports-it_logo" />
 </a>
 
 </div>
