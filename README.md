@@ -2,9 +2,7 @@
 
 <div align=center>
 
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-30-green.svg?style=flat-square)](https://github.com/AJOU-BEGINNER/P-1)
-
-<a href="https://github.com/AJOU-BEGINNER/P-1/graphs/contributors">
+<a href="https://github.com/LinkedSports/Sports-iT-App/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AJOU-BEGINNER/P-1" />
 </a>
 
@@ -17,11 +15,11 @@
 ---
 
 ## 🛎️개발로그
-####[2023-03-02]() <br/>
+#### [2023-03-02]() <br/>
 
 
 ## 🎃 회의록
-####[2023-03-02]() <br/>
+#### [2023-03-02]() <br/>
 
 
 ## 🔥 Goal
