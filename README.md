@@ -31,20 +31,26 @@
       <td align="center">ㅎ?ㅇ</td>
     </tr>
     <tr>
-      <td align="center"> [gongzuri](https://github.com/dudgns2947) </td>
+      <td align="center">
+        <a target="_blank" href="#"><img alt height="150px" width="150px" src="영훈사진.jpg"/></a>
+      </td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
     </tr>
     <tr>
-      <td> align="center>
-        <a target="_blank" href="#"><img alt style="max-width:100%;" src="#"/></a></td>
+      <td align="center"> <a href="https://github.com/dudgns2947">gongzuri</a> </td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
     </tr>
     <tr>
-      <td align="center">간단자기의 약력</td>
+      <td align="center">
+        <ul>
+          <li></li>
+            
+        </ul>
+      </td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
