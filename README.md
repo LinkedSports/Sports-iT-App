@@ -47,8 +47,9 @@
     <tr>
       <td align="center">
         <ul>
-          <li></li>
-            
+          <li>Sports-iT 교내창업동아리 대표</li>
+          <li>(사)대한팔씨름연맹 KAF 미래혁신 위원장</li>
+          <li>약력3</li>
         </ul>
       </td>
       <td align="center">ㅎ?ㅇ</td>
