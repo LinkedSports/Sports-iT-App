@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a target="_blank" href="#"><img alt height="150px" width="150px" src="영훈사진.jpg"/></a>
+        <a target="_blank" href="#"><img alt height="180px" width="180px" src="영훈사진.jpg"/></a>
       </td>
       <td align="center">ㅎ?ㅇ</td>
       <td align="center">ㅎ?ㅇ</td>
@@ -49,7 +49,7 @@
         <ul>
           <li>Sports-iT 교내창업동아리 대표</li>
           <li>(사)대한팔씨름연맹 KAF 미래혁신 위원장</li>
-          <li>약력3</li>
+          <li>제 1대 소프트웨어융합대학 학생회 글로벌융합국장</li>
         </ul>
       </td>
       <td align="center">ㅎ?ㅇ</td>
